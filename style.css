@@ -1,0 +1,181 @@
+/* ================= FONT & BODY ================= */
+
+body{
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f5f0;
+    margin:0;
+    padding:0;
+    color:#4b3f2f;
+}
+
+/* ================= JUDUL ================= */
+
+h1{
+    text-align:center;
+    margin-top:20px;
+    color:#5a4634;
+}
+
+h2{
+    color:#6a533f;
+    margin-bottom:10px;
+}
+
+/* ================= CONTAINER ================= */
+
+.container{
+    width:80%;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:12px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.08);
+    margin-top:40px;
+}
+
+/* ================= HEADER ================= */
+
+.header{
+    background:#efe6d8;
+    padding:20px;
+    text-align:center;
+    border-radius:10px;
+    margin-bottom:25px;
+}
+
+/* ================= MENU LINK ================= */
+
+a{
+    text-decoration:none;
+    color:white;
+    background:#c8a97e;
+    padding:10px 18px;
+    border-radius:8px;
+    display:inline-block;
+    margin:10px 5px;
+    transition:0.3s;
+}
+
+a:hover{
+    background:#b5956c;
+}
+
+/* ================= FORM BOX ================= */
+
+.form-box{
+    background:#faf7f2;
+    padding:20px;
+    border-radius:10px;
+    margin-top:20px;
+}
+
+/* ================= TABLE BOX ================= */
+
+.table-box{
+    margin-top:25px;
+}
+
+/* ================= FORM ================= */
+
+form{
+    margin-top:10px;
+}
+
+/* ================= INPUT ================= */
+
+input, select{
+    width:100%;
+    padding:10px;
+    border-radius:8px;
+    border:1px solid #ddd;
+    margin-top:5px;
+    margin-bottom:15px;
+    background:#faf7f2;
+}
+
+/* ================= BUTTON ================= */
+
+button{
+    background:#a9835a;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:8px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+button:hover{
+    background:#8f6f4e;
+}
+
+/* ================= TABLE ================= */
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+    background:white;
+}
+
+table th{
+    background:#e7d9c6;
+    padding:12px;
+}
+
+table td{
+    padding:10px;
+    text-align:center;
+    border-bottom:1px solid #eee;
+}
+
+table tr:nth-child(even){
+    background:#f7f1e7;
+}
+
+table tr:hover{
+    background:#faf4ea;
+}
+
+/* ================= HR ================= */
+
+hr{
+    margin:30px 0;
+    border:0;
+    border-top:1px solid #eee;
+}
+
+/* ================= FOOTER ================= */
+
+.footer{
+    background:#efe6d8;
+    text-align:center;
+    padding:10px;
+    margin-top:40px;
+    font-size:13px;
+    border-radius:8px;
+}
+
+/* ================= BUTTON CLASS ================= */
+
+.btn{
+    background:#c8a97e;
+    padding:10px 18px;
+    border-radius:8px;
+    color:white;
+}
+
+.btn:hover{
+    background:#b5956c;
+}
+
+/* FOOTER */
+
+.footer{
+text-align:center;
+margin-top:50px;
+padding:20px;
+background:#efe6d8;
+border-radius:10px;
+font-size:14px;
+}
