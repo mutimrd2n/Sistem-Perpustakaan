@@ -1,4 +1,3 @@
-# Sistem-Perpustakaan
 # Sistem Perpustakaan
 
 Sistem Perpustakaan ini dibuat menggunakan **PHP** dan **MySQL** untuk mempermudah pengelolaan data anggota, data buku, dan transaksi peminjaman buku. Sistem ini dirancang agar **sederhana, rapi, dan user-friendly** dengan tampilan web berbasis **HTML dan CSS**.
